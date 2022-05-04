@@ -8,9 +8,9 @@
 ⚡  Fun fact **The Windy City nickname has nothing to do with Chicago’s weather**
 
 <h3 align="left">Connect with me:</h3>
-👨‍💻 <a href="https://lailaali.dev" target='_blank'>Portfolio</a>
+👨‍💻 <a href="https://lailaali.dev" target="_blank" rel="noreferrer">Portfolio</a>
 
-📫 <a href="https://www.linkedin.com/in/ms-laila-ali/" target='_blank'>LinkedIn</a>
+📫 <a href="https://www.linkedin.com/in/ms-laila-ali/" target="_blank" rel="noreferrer">LinkedIn</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
