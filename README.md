@@ -5,13 +5,11 @@
 
 - 🌱 I’m currently learning **Backend Dev using the MERN+TypeGraphQL tech stack**
 
-- 👨‍💻 Portfolio [https://lailaali.dev](https://lailaali.dev)
-
-- 📫 How to reach me for work **https://www.linkedin.com/in/ms-laila-ali/**
-
 - ⚡ Fun fact **The Windy City nickname has nothing to do with Chicago’s weather**
 
 <h3 align="left">Connect with me:</h3>
+- 👨‍💻 [lailaali.dev](https://lailaali.dev)
+- 📫 For work [ms-laila-ali](https://www.linkedin.com/in/ms-laila-ali/)
 <p align="left">
 </p>
 
