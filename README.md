@@ -1,5 +1,5 @@
 <h1 align="left">👋, I'm Laila</h1>
-<h3 align="left">A Frontend Engineer + UI/UX Designer based in Chicago</h3>
+<h3 align="left">A Frontend Engineer + UI/UX Designer based in Austin, TX</h3>
 
 🔭  I’m currently working at a Fintech startup on a React TS Python app
 
