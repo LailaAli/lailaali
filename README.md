@@ -1,13 +1,9 @@
 <h1 align="left">👋, I'm Laila</h1>
-<h3 align="left">A Frontend Engineer + UI/UX Designer based in Austin, TX</h3>
+<h3 align="left">A Frontend Engineer + Product Designer based in Austin, TX</h3>
 
 🔭  I’m currently working at a Fintech startup on a React TS Python app
 
-🌱  I’m currently learning backend Dev using the MERN+TypeGraphQL tech stack
-
 ❤️  I love building accessible apps from conception to production
-
-⚡  Fun fact the Windy City nickname has nothing to do with Chicago’s weather
 
 <h3 align="left">Connect with me:</h3>
 👨‍💻 <a href="https://lailaali.dev" target="_blank" rel="noreferrer">Portfolio</a>
