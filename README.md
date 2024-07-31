@@ -1,7 +1,7 @@
 <h1 align="left">👋, I'm Laila</h1>
 <h3 align="left">A Frontend Engineer + Product Designer based in Austin, TX</h3>
 
-🔭  I’m currently working at a Fintech startup on a React TS Python app
+🔭  I’m currently working on my non-profit tool to help animal welfare orgs save more animals.
 
 ❤️  I love building accessible apps from conception to production
 
